@@ -1,0 +1,20 @@
+#greenBlock {
+    left: 25%;
+    top: 50%;
+}
+#blueBlock {
+    left: 50%;
+    top: 50%;
+}
+#redBlock {
+    left: 75%;
+    top: 50%;
+}
+.moveContainer {
+    display: inline;
+    padding: 20px;
+    float:left;
+}
+#text {
+    clear:both;
+}
